@@ -1,0 +1,12 @@
+{
+  "name": "dynamodb-unmarshal-cli",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dynamodb-marshaler": "^2.0.0"
+  },
+  "bin": {
+    "unmarshal": "./index.js"
+  }
+}
